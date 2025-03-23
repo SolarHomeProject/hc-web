@@ -1,0 +1,21 @@
+.navbar {
+    margin-bottom: 20px;
+}
+.card {
+    margin-bottom: 10px;
+}
+.nodata {
+    display: none;
+}
+.notempdata {
+    display: none;
+}
+.chart-container {
+    aspect-ratio: 2;
+}
+.camera-img {
+    cursor: pointer;
+}
+.daystate {
+    display: none;
+}

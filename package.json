@@ -1,0 +1,21 @@
+{
+  "name": "hc.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "backbone": "^1.6.0",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.1",
+    "jquery": "^3.7.1",
+    "text": "github:requirejs/text",
+    "underscore": "^1.13.6",
+    "viewerjs": "^1.11.6"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-clean": "^2.0.1",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-requirejs": "^1.0.0"
+  }
+}
